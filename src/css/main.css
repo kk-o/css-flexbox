@@ -9,16 +9,24 @@
 /* [] */
 /* [] */
 
+/* flex-basis
+  container has a) space left or
+                b) is overfull
+
+  look at a) flex-grow && b) flex-shrink
+  calculate portions each items will grow / shrink
+  add that to the base size
+*/
+
 .container {
   display: flex;
-  flex-direction: column;
   border: 1px solid #fff;
-  width: 800px;
 }
 
 .container div {
   float: right;
-  flex-basis: auto;
+  /* flex-basis: auto; */
+  flex: 1 1 20%;
   margin: 0;
 }
 
