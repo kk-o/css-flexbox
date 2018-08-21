@@ -11,22 +11,25 @@
 
 .container {
   display: flex;
-  flex-flow: row;
+  flex-direction: column;
   border: 1px solid #fff;
-  width: 400px;
+  width: 800px;
 }
 
 .container div {
   float: right;
-  width: 100px;
+  flex-basis: auto;
   margin: 0;
 }
 
 .container div:nth-child(2) {
-  flex-shrink: 9;
+
+
 }
 
 .container div:nth-child(3) {
+
+
 }
 
 /*
