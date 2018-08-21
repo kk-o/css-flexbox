@@ -1,69 +1,25 @@
-/* Additional changes */
+/**/
 
-/* Main axis: */
-/* [] [] [] [] */
+/* float, display: inline */
 
-/* Cross axis: */
-/* [] */
-/* [] */
-/* [] */
-/* [] */
-
-/* flex-basis
-  container has a) space left or
-                b) is overfull
-
-  look at a) flex-grow && b) flex-shrink
-  calculate portions each items will grow / shrink
-  add that to the base size
-*/
-
-.container {
+.grid {
   display: flex;
-  border: 1px solid #fff;
 }
 
-.container div {
-  float: right;
-  /* flex-basis: auto; */
-  flex: 1 1 20%;
-  margin: 0;
+.gutters {
+  margin: -10px 0 0 -10px; /* top right bottom and left [clockwise] */
 }
 
-.container div:nth-child(2) {
-
-
+.gutters > .cell {
+  padding: 10px 0 0 10px;
 }
 
-.container div:nth-child(3) {
-
-
+.cell {
+  flex: 1; /* 1 1 0% */
 }
 
-/*
-Flex containers:
- -Flow direction
- -Justify content
- -Align items
- -Flex wrap
- -Align Content
-
-
-Flex items:
- -Order
- -Align Self
- -Flex Grow
- -Flex Shrink
- -Flex Basis
- -Grow, Shrink, & Basis
-
-Flex etc:
--Flexbox grids
--Media objects
-
-
-
-
-*/
-
-
+.cell > div {
+  background-color: rgba(255, 255, 255, 0.7);
+  height: 100%;
+  padding: 10px;
+}
