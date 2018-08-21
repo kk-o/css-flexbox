@@ -12,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="2899" />
+    <option name="totalTimeSeconds" value="3385" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1154404377">
@@ -36,13 +36,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2160" />
+          <entry key="css" value="2261" />
           <entry key="html" value="166" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2160" />
+          <entry key="CSS" value="2261" />
           <entry key="HTML" value="166" />
         </counts>
       </usages-collector>
@@ -71,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            <state relative-caret-position="62">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -113,9 +113,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="766" />
-    <option name="height" value="778" />
+    <option name="y" value="411" />
+    <option name="width" value="1280" />
+    <option name="height" value="389" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -190,15 +190,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534880206957</updated>
-      <workItem from="1534880212156" duration="3326000" />
+      <workItem from="1534880212156" duration="3750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3326000" />
+    <option name="totallyTimeSpent" value="3750000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="766" height="778" extended-state="0" />
+    <frame x="0" y="411" width="1280" height="389" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" order="0" side_tool="true" />
@@ -246,8 +246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state relative-caret-position="62">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
         </state>
       </provider>
     </entry>
