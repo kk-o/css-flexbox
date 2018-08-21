@@ -1,0 +1,42 @@
+/* Additional changes */
+
+/* Main axis: */
+/* [] [] [] [] */
+
+/* Cross axis: */
+/* [] */
+/* [] */
+/* [] */
+/* [] */
+
+.container {
+  display: flex;
+}
+
+/*
+Flex containers:
+ -Flow direction
+ -Justify content
+ -Align items
+ -Flex wrap
+ -Align Content
+
+
+Flex items:
+ -Order
+ -Align Self
+ -Flex Grow
+ -Flex Shrink
+ -Flex Basis
+ -Grow, Shrink, & Basis
+
+Flex etc:
+-Flexbox grids
+-Media objects
+
+
+
+
+*/
+
+
