@@ -15,10 +15,11 @@
 .figure {
   flex: 1 1 30%;
   align-self: flex-start;
+  /* change order of image [order: 1] */
 }
 
 .media-body {
-  flex: 1 1 70%
+  flex: 1 1 60%
 }
 
 p {
